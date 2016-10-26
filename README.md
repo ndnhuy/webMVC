@@ -27,4 +27,7 @@ Update your local development database with SQL files created above
 $ mvn flyway:migrate
 ```
 
+
+chạy project dùng lệnh : mvn jetty:run
+Sau đó vào http://localhost:8080
 Please visit http://flywaydb.org/
